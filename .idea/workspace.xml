@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59706233-fa60-497a-8d04-3dafb9f4cbde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/helmet_detection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encode_decode/img_enc_dec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helmet_detection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helmet_detection/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helmet_detection/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helmet_detection/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helmet_detection/view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helmet_detection/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_detection-0.0.3.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/data/labelmap.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/obj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/anchor_generator.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/argmax_matcher.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/argmax_matcher_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/bipartite_matcher.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/bipartite_matcher_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/box_coder.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/box_predictor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/box_predictor_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/eval.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/eval_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/faster_rcnn.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/faster_rcnn_box_coder.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/faster_rcnn_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/faster_rcnn_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/graph_rewriter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/graph_rewriter_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/grid_anchor_generator.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/grid_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/hyperparams.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/hyperparams_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/image_resizer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/image_resizer_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/input_reader.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/input_reader_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/keypoint_box_coder.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/keypoint_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/losses.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/losses_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/matcher.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/matcher_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/mean_stddev_box_coder.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/mean_stddev_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/model.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/model_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/multiscale_anchor_generator.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/multiscale_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/optimizer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/optimizer_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/pipeline.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/pipeline_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/post_processing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/post_processing_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/preprocessor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/preprocessor_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/region_similarity_calculator.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/region_similarity_calculator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/square_box_coder.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/square_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/ssd.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/ssd_anchor_generator.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/ssd_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/ssd_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/string_int_label_map.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/string_int_label_map_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/train.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/protos/train_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/category_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/category_util_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/config_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/config_util_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/context_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/context_manager_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/dataset_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/dataset_util_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/json_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/json_utils_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/label_map_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/label_map_util_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/learning_schedules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/learning_schedules_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/metrics_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_list_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_list_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_list_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_mask_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_mask_list_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_mask_list_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_mask_list_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_box_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_mask_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/np_mask_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/object_detection_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/object_detection_evaluation_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/per_image_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/per_image_evaluation_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/per_image_vrd_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/per_image_vrd_evaluation_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/shape_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/shape_utils_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/static_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/static_shape_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/test_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/test_utils_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/variables_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/variables_helper_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/visualization_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/visualization_utils_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/vrd_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/object_detection/utils/vrd_evaluation_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/ajaxcan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m2vUdqmBv5NGTSXDibf7mIXcIg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59706233-fa60-497a-8d04-3dafb9f4cbde" name="Default Changelist" comment="" />
+      <created>1608704519250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608704519250</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
